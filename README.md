@@ -76,12 +76,12 @@ Pour vous simplifier la vie voilà le code à la fin de cet article.
 On repart d’un Laravel vierge et on crée une base comme on l’a vu précédemment.Appelons la par exemple laravel11 pour faire original. On renseigne le fichier .env en
 conséquence :
 
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=laravel11_
-DB_USERNAME=root
-DB_PASSWORD=
+-DB_CONNECTION=mysql
+-DB_HOST=127.0.0.1
+-DB_PORT=3306
+-DB_DATABASE=laravel11_
+-DB_USERNAME=root
+-DB_PASSWORD=
 
 ![image](https://github.com/omar-amrouss/MoviesMangement/assets/133509604/d96063f0-cdec-4a3e-8399-1ac944fd84b6)
 
