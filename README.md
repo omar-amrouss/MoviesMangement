@@ -93,10 +93,31 @@ composer install
 ## La migration
 
 On va créer avec Artisan les tables du la base de données, et les migrés :
+![image](https://github.com/omar-amrouss/MoviesMangement/assets/133509604/c20681a2-fb53-41e6-a724-926d50d6e2eb)
+
 
 php artisan migrate
+
 php artisan migrate:fresh
+
 php artisan migrate:refresh
+
+## Purpler la base de données
+En utilisant la commande: php artisan db:seed
+
+![image](https://github.com/omar-amrouss/MoviesMangement/assets/133509604/622d6956-a160-4746-8be9-084e064c7956)
+
+## Lancer l'application
+On va lancer l'application en utilisant la commande Artisan:
+
+php artisan serve
+![image](https://github.com/omar-amrouss/MoviesMangement/assets/133509604/8b549f07-887b-48ce-873c-1afe89cd4675)
+
+
+
+
+
+
 
 
 
