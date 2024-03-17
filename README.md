@@ -65,4 +65,25 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-# How to intall this LARAVEL application
+# Installation de l'application Gestion de films
+
+Dans ce chapitre nous allons commencer à étudier les ressources qui permettent de créer des routes « CRUD » (Create, Read, Update, Delete) adaptées à la persistance de données. Comme exemple pratique nous allons prendre le cas d’une table de films.
+
+Pour vous simplifier la vie voilà le code à la fin de cet article.
+
+## Les Données
+
+On repart d’un Laravel vierge et on crée une base comme on l’a vu précédemment.Appelons la par exemple laravel11 pour faire original. On renseigne le fichier .env en
+conséquence :
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=laravel11_
+DB_USERNAME=root
+DB_PASSWORD=
+
+![image](https://github.com/omar-amrouss/MoviesMangement/assets/133509604/d96063f0-cdec-4a3e-8399-1ac944fd84b6)
+
+
+
