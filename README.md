@@ -85,5 +85,16 @@ conséquence :
 
 ![image](https://github.com/omar-amrouss/MoviesMangement/assets/133509604/d96063f0-cdec-4a3e-8399-1ac944fd84b6)
 
+## Mise à jour et installation du composer
+À l'aide du commande composer install, on fait l'installation du composter, et le publish du vendor file.
+
+composer install
+
+## La migration
+
+On va créer avec Artisan le modèle Film en même temps que la migration :
+
+php artisan make:model Film --migration
+
 
 
