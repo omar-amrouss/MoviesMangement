@@ -132,7 +132,42 @@ Voici la liste des films qu'on a dans la dase de données:
 
 ### Créer un film
 
-Pour céer un film il suffit de clicker sur le bouton : [Créer un film](http://127.0.0.1:8000/films/create)
+Pour céer un film, il suffit de clicker sur le bouton : [Créer un film](http://127.0.0.1:8000/films/create)
+
+![image](https://github.com/omar-amrouss/MoviesMangement/assets/133509604/6fea610a-c1dc-499d-bd09-1f250a8d8ed8)
+
+### Modifier un film
+
+Pour modifier un film, il suffit de clicker sur le bouton : [Modifier](http://127.0.0.1:8000/films/37/edit) du film choisi pour le modifier.
+
+![image](https://github.com/omar-amrouss/MoviesMangement/assets/133509604/614bed1b-0d73-4607-8c6d-a96e8dbf5fb4)
+
+
+### Lister ou voir un film
+
+Pour voir les détaille du film, il suffit de clicker sur le bouton : [Voir](http://127.0.0.1:8000/films/37), du film désirer pour l'affichage.
+
+![image](https://github.com/omar-amrouss/MoviesMangement/assets/133509604/ddd40d3b-6b44-4f6d-bd90-bd3ff0921b9c)
+
+### Supprimer un film 
+
+Pour supprimer un film, il faut clicker sur le bouton : [Supprimer] du film choisi pour le supprimer.
+
+![image](https://github.com/omar-amrouss/MoviesMangement/assets/133509604/3581623a-168c-47fe-824d-a7b67a631eb6)
+
+### Restaurer le film
+
+Pour restaurer un film, il faut clicker sur le bouton : [Restaurer] du film choisi pour le restaurer.
+
+![image](https://github.com/omar-amrouss/MoviesMangement/assets/133509604/5d04abb7-29d7-4296-9826-56ea303d07a5)
+
+### Lister les catégories des films
+
+![image](https://github.com/omar-amrouss/MoviesMangement/assets/133509604/105a1f5d-5560-4842-ba45-ff6b6c5dfe43)
+
+
+
+
 
 
 
