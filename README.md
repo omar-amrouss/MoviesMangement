@@ -92,9 +92,13 @@ composer install
 
 ## La migration
 
-On va créer avec Artisan le modèle Film en même temps que la migration :
+On va créer avec Artisan les tables du la base de données, et les migrés :
 
-php artisan make:model Film --migration
+php artisan migrate
+
+php artisan migrate:fresh
+
+php artisan migrate:refresh
 
 
 
