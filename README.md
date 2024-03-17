@@ -111,7 +111,13 @@ En utilisant la commande: php artisan db:seed
 On va lancer l'application en utilisant la commande Artisan:
 
 php artisan serve
+
 ![image](https://github.com/omar-amrouss/MoviesMangement/assets/133509604/8b549f07-887b-48ce-873c-1afe89cd4675)
+
+## Navigation 
+
+![image](https://github.com/omar-amrouss/MoviesMangement/assets/133509604/4424c315-7b56-4608-aeca-3b3f6b60583e)
+
 
 
 
