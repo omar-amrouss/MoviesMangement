@@ -116,8 +116,23 @@ php artisan serve
 
 ## Navigation 
 Lorsque on lance l'application : **http://127.0.0.1:8000**, on observe la page suivante de navigation:
+![image](https://github.com/omar-amrouss/MoviesMangement/assets/133509604/7ae8b3bd-612c-444e-9a51-f5340c507b63)
+
 
 ![image](https://github.com/omar-amrouss/MoviesMangement/assets/133509604/4424c315-7b56-4608-aeca-3b3f6b60583e)
+
+### Accès à l'application
+Maitenant on va modifier l'URL de telle façon pour accéder à l'application: **http://127.0.0.1:8000/films**
+
+![image](https://github.com/omar-amrouss/MoviesMangement/assets/133509604/5f249935-a35a-42e2-84cd-1c45eb26ff6d)
+
+Voici la liste des films qu'on a dans la dase de données:
+
+![image](https://github.com/omar-amrouss/MoviesMangement/assets/133509604/3a363136-f49c-46b3-b835-3a07a27b1c6e)
+
+
+
+
 
 
 
