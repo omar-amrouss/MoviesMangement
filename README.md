@@ -130,7 +130,10 @@ Voici la liste des films qu'on a dans la dase de données:
 
 ![image](https://github.com/omar-amrouss/MoviesMangement/assets/133509604/3a363136-f49c-46b3-b835-3a07a27b1c6e)
 
-## *Créer un film*
+### Créer un film
+
+Pour céer un film il suffit de clicker sur le bouton : [Créer un film](http://127.0.0.1:8000/films/create)
+
 
 
 
