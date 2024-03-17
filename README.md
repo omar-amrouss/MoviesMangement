@@ -95,9 +95,7 @@ composer install
 On va créer avec Artisan les tables du la base de données, et les migrés :
 
 php artisan migrate
-
 php artisan migrate:fresh
-
 php artisan migrate:refresh
 
 
